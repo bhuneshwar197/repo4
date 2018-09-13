@@ -1,1 +1,2 @@
-this file is in Destinationgroup1 for source tree made for testing
+this file is in Destinationgroup2 for source tree made for testing
+this is extra line added in destinationgroup2
