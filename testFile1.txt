@@ -4,3 +4,4 @@ this file is in Destinationgroup1 for source tree made for testing
 this line is added in destinationGroup1
 this line3 is added in destinationGroup1
 line 6 added in destinationGroup2
+line 7a added in destinationGroup1
